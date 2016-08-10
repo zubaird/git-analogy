@@ -1,6 +1,6 @@
 ## Git Analogy
 
-Git is like making a movie
+Git is like making a movie (lies!)
 
 git init - idea for the movie/buying the set
 your files are the actors
