@@ -1,8 +1,14 @@
 ## Git Analogy
 
+<<<<<<< HEAD
+
 Not gibberish Git is like making a movie (srs lies!)
 
 (boom!)
+=======
+gibberish
+Git is like making a movie (srs lies!)
+>>>>>>> d496bdd96a1c8ec78be05c99f256b787bb4b7a16
 
 git init - idea for the movie/buying the set
 your files are the actors
