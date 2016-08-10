@@ -1,6 +1,8 @@
 ## Git Analogy
 
-Git is like making a movie (srs lies!)
+Not gibberish Git is like making a movie (srs lies!)
+
+(boom!)
 
 git init - idea for the movie/buying the set
 your files are the actors
