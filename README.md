@@ -1,5 +1,5 @@
 ## Git Analogy
-
+gibberish
 Git is like making a movie (srs lies!)
 
 git init - idea for the movie/buying the set
